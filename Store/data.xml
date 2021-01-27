@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<products>
+ <product id="1" image="product_front.jpg" price="66" title="Tokichoi Front Pocket Collared Dress">Tokichoi Front Pocket Collared Dress</product>
+ <product id="2" image="boys-Puffer-Coat-With-Detachable-Hood-1.jpg" price="121" title="Boys Puffer Coat With Detachable Hood">Boys Puffer Coat With Detachable Hood</product>
+ <product id="3" image="g-polos-tshirt-1.jpg" price="55" title="Girl Polos T-Shirt">Girl Polos T-Shirt</product>
+ <product id="4" image="Man-Geox-Winter-jacket-1.jpg" price="100" title="Man Geox Winter Jacket">Man Geox Winter Jacket</product>
+ <product id="5" image="Red-Winter-jacket-1.jpg" price="103" title="Women Red Winter Jacket">Women Red Winter Jacket</product>
+ <product id="6" image="waxed-cotton-coat-woman-1.jpg" price="211" title="Woman Waxed Cotton Coat">Woman Waxed Cotton Coat</product>
+ <product id="7" image="High Heels Women Pantofel Brukat-1.jpg" price="45" title="High Heels Pantofel Brukat">High Heels Pantofel Brukat</product>
+ <product id="8" image="Man-Adidas-Suarez-Slop-On-1.jpg" price="51" title="Adidas Suarez Slop On">Adidas Suarez Slop On</product>
+ <product id="9" image="Mont-Blanc-Belt-man-1.jpg" price="166" title="Mont Blanc Belt Man">Mont Blanc Belt Man</product>
+ <product id="10" image="women-diamond-heart-ring-1.jpg" price="300" title="Diamond Heart Ring">Diamond Heart Ring</product>
+ <product id="11" image="grey-man-1.jpg" price="50" title="Grey Man T-Shirt">Grey Man T-Shirt</product>
+ <product id="12" image="Man-Polo-1.jpg" price="45" title="Man Polo Casual T-Shirt">Man Polo Casual T-Shirt</product>
+ <product id="13" image="polos-tshirt-1.jpg" price="40" title="Boy Polos T-Shirt">Boy Polos T-Shirt</product>
+ <product id="14" image="levis-Trucker-Jacket.jpg" price="98" title="Levi`s Trucker Jacket">Levi`s Trucker Jacket</product>
+ <product id="15" image="Merlin-Enginner-Jacket.jpg" price="90" title="Merlin Engineer Jacket">Merlin Engineer Jacket</product>
+ <product id="16" image="Mobile-Power-Jacket.jpg" price="99" title="Mobile Power Jacket">Mobile Power Jacket</product>
+</products>
